@@ -10,4 +10,4 @@ This project is inspired by Rob Mulla.
 
 The dataset is available on Kaggle https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
 
-I suggest converting it to a parquet file as they can be read much faster
+I suggest converting it to a parquet file as they can be read much faster.
