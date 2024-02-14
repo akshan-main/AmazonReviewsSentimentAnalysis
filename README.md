@@ -15,5 +15,5 @@ I suggest converting it to a parquet file as they can be read much faster.
 
 
 
-I presented this project and explained the code in a volunteer session in my class
+I presented this project and explained the code during a volunteer session in my class.
 
